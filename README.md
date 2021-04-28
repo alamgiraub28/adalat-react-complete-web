@@ -3,6 +3,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 [Live Website](https://adalatfirm.web.app/)
 
+Live Link: https://adalatfirm.web.app/
+
 ### Features
 * Build On Latest React
 * Developer Friendly Code
