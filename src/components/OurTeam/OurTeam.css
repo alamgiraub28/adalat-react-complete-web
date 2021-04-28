@@ -1,0 +1,18 @@
+.team-img{
+    border-radius: 50%;
+    width: 150px;
+    background-color: #f9f9f9;
+}
+.team-sub-title{
+    margin-bottom: 4rem;
+}
+.social-icon{
+    margin: 0 .5rem;
+    color: gray;
+    font-size: 18px;
+    transition: all ease .5s;
+    cursor: pointer;
+}
+.social-icon:hover{
+    color: blue;
+}

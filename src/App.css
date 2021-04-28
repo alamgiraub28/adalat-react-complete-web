@@ -1,0 +1,20 @@
+.bg-custom{
+    background-color: #d8ae76;
+  }
+  
+  .text-custom{
+    color:  #d8ae76 !important;
+  }
+  
+  .btn-custom{
+    background: #d8ae76;
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+    }
+  
+    .btn-custom:hover{
+      background: #071629;
+      color: #ffffff;
+      border: 1px solid #ffffff;
+    }

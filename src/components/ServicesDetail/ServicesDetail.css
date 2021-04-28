@@ -1,0 +1,35 @@
+.service-bg{
+    background-color: #F3F3F3;
+}
+
+.service-card{
+    background: #f9f9f9;
+    padding: 35px;
+    
+    border-radius: 4px;
+    
+    text-align: center;
+    transition: all ease .3s;
+    cursor: pointer;
+    
+}
+
+.service-card:hover{
+    background: #071629;
+    color: #ffffff;
+}
+
+
+.imgCustom{
+    background:  #d8ae76;
+    height: 60px;
+    width: 60px;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.service-card:hover img{
+    background: rgb(255, 255, 255);
+}
+
+

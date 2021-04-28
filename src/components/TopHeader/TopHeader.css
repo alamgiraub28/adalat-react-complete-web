@@ -1,0 +1,14 @@
+.bg-headerBanner{
+    background-image:url('../../img/sliderBanner.jpg');
+    height: 750px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #4c4c4c;
+    background-blend-mode: multiply;
+    z-index: -25;
+}
+
+.headerContent{
+    height: 750px;
+}

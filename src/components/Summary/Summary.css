@@ -1,0 +1,29 @@
+.summary-title{
+    font-size: 42px;
+    font-weight: 600;
+    color: #B19777;
+}
+.summary-sub-title{
+    font-size: 40px;
+    font-weight: 500;
+    color: #3a4256;
+    margin-bottom: 5rem;
+}
+.planing-number{
+    font-size: 85px;
+    font-weight: 900;
+    color: #ffffff;
+    transition: all ease .5s;
+    cursor: pointer;
+}
+.planing-number:hover{
+    font-size: 90px;
+}
+
+
+.why-choose-bg{
+background-image: url(../../img/why-bg.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+}

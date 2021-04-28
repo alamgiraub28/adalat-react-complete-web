@@ -1,0 +1,53 @@
+.footerBg{
+   background-color: #1d1d1d;
+}
+.tagTitle{
+    margin-top: 2.4rem;
+    font-size: 14px;
+    color: #fff;
+    line-height: 1.5rem;
+}
+.footerTitle{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    color: lightgray;
+}
+.footerDes{
+    color: lightgray;
+    transition: all 0.5s ease;
+    line-height:  40px;
+    font-size: 14px;
+    margin-left: 0;
+}
+.footerDes:hover{
+    color: #d8ae76;
+    margin-left: 5px;
+}
+.footerAddress{
+    margin-top: 2.5rem;
+    line-height: 30px;
+    font-size: 14px;
+    font-weight: 400;
+    color: lightgray;
+}
+/*-- Footer End --*/
+.endBorder{
+    border-top: 1px solid #3D3C3C;
+}
+
+
+
+
+.iconList{
+    margin-left: -9px;
+    cursor: pointer;
+}
+.footerIcon{
+    font-size: 24px;
+    margin: 0px 8px;
+    color: lightgray;
+    cursor: pointer;
+    transition: all ease .5s;
+}

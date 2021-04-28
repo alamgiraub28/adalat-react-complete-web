@@ -1,0 +1,24 @@
+body{
+    background-color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+}
+.navBackground{
+    background-color: rgba(255, 255, 255, 0.8)!important;
+    border-bottom: 1px solid #3a4256;
+}
+.navItem{
+    font-size: 15px;
+    margin: .5rem 1rem;
+    text-decoration: none !important;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400 !important;
+    color: #1b1a1a;
+    transition: all 0.4s ease;
+}
+.navItem:hover{
+    color: #d8ae76 !important;
+}
+.navbar-expand-lg .navbar-nav {
+    margin-right: 230px;
+}
+
